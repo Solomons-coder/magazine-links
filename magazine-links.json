@@ -1,134 +1,145 @@
 [
 
-  "_comment": "PAGE 1",
-  { "image": "https://solomonscycles.co.za/wp-content/uploads/2025/08/Solomons-Time-To-Shift-Gear-Sale-X_Page_01-scaled.jpg" },
-  
-  
-  "_comment": "PAGE 2",
-  { "image": "https://solomonscycles.co.za/wp-content/uploads/2025/08/Solomons-Time-To-Shift-Gear-Sale-X_Page_02-scaled.jpg" },
-  
-  
-  "_comment": "PAGE 3",
+
   { 
+    "note": "PAGE 1"
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/08/Solomons-Time-To-Shift-Gear-Sale-X_Page_01-scaled.jpg" 
+    },
+  
+  
+
+  { 
+    "note": "PAGE 2"
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/08/Solomons-Time-To-Shift-Gear-Sale-X_Page_02-scaled.jpg" },
+  
+  
+
+  { 
+  "note": "PAGE 3"
   "image": "https://solomonscycles.co.za/wp-content/uploads/2025/08/Solomons-Time-To-Shift-Gear-Sale-X_Page_03.jpg" 
   "link": "https://solomonscycles.co.za/product-tag/magazine-1/"
   },
   
   
-  "_comment": "PAGE 4",
+
   { 
+    "note": "PAGE 4"
     "image": "https://solomonscycles.co.za/wp-content/uploads/2025/08/Solomons-Time-To-Shift-Gear-Sale-X_Page_04.jpg",
     "link": "https://solomonscycles.co.za/product/patriot-frontline-29-alloy-frame-mountain-bike-2025/"
   },
   
-  "_comment": "PAGE 5",
-  { "image": "https://solomonscycles.co.za/wp-content/uploads/2025/08/Solomons-Time-To-Shift-Gear-Sale-X_Page_05.jpg" },
+
+  { 
+    "note": "PAGE 5"
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/08/Solomons-Time-To-Shift-Gear-Sale-X_Page_05.jpg" 
+  
+  },
   
   
-  "_comment": "PAGE 6",
+
   { "image": "https://solomonscycles.co.za/wp-content/uploads/2025/08/Solomons-Time-To-Shift-Gear-Sale-X_Page_06-scaled.jpg" },
   
   
-  "_comment": "PAGE 7",
+
   { "image": "https://solomonscycles.co.za/wp-content/uploads/2025/08/Solomons-Time-To-Shift-Gear-Sale-X_Page_07.jpg" },
 
   
-  "_comment": "PAGE 8",
+
   { "image": "https://solomonscycles.co.za/wp-content/uploads/2025/08/Solomons-Time-To-Shift-Gear-Sale-X_Page_08.jpg" },
   
   
-  "_comment": "PAGE 9",
+
   { "image": "https://solomonscycles.co.za/wp-content/uploads/2025/08/lifestyle-cycleimages_1.jpg" },
   
   
-  "_comment": "PAGE 10",
+
   { "image": "https://solomonscycles.co.za/wp-content/uploads/2025/08/Solomons-Time-To-Shift-Gear-Sale-X_Page_09.jpg" },
   
   
-  "_comment": "PAGE 11",
+
   { "image": "https://solomonscycles.co.za/wp-content/uploads/2025/08/Solomons-Time-To-Shift-Gear-Sale-X_Page_10.jpg" },
   
   
-  "_comment": "PAGE 12",
+
   { "image": "https://solomonscycles.co.za/wp-content/uploads/2025/08/Solomons-Time-To-Shift-Gear-Sale-X_Page_11.jpg" },
   
   
-  "_comment": "PAGE 13",
+
   { "image": "https://solomonscycles.co.za/wp-content/uploads/2025/08/Solomons-Time-To-Shift-Gear-Sale-X_Page_12-scaled.jpg" },
 
   
-  "_comment": "PAGE 14",
+
   { "image": "https://solomonscycles.co.za/wp-content/uploads/2025/08/Solomons-Time-To-Shift-Gear-Sale-X_Page_13.jpg" },
   
   
-  "_comment": "PAGE 15",
+
   { "image": "https://solomonscycles.co.za/wp-content/uploads/2025/08/Solomons-Time-To-Shift-Gear-Sale-X_Page_14.jpg" },
   
   
-  "_comment": "PAGE 16",
+
   { "image": "https://solomonscycles.co.za/wp-content/uploads/2025/08/Solomons-Time-To-Shift-Gear-Sale-X_Page_15.jpg" },
   
   
-  "_comment": "PAGE 17",
+
   { "image": "https://solomonscycles.co.za/wp-content/uploads/2025/08/Solomons-Time-To-Shift-Gear-Sale-X_Page_16.jpg" },
   
   
-  "_comment": "PAGE 18",
+
   { "image": "https://solomonscycles.co.za/wp-content/uploads/2025/08/lifestyle-cycleimages_2.jpg" },
   
   
-  "_comment": "PAGE 19",
+
   { "image": "https://solomonscycles.co.za/wp-content/uploads/2025/08/Solomons-Time-To-Shift-Gear-Sale-X_Page_17.jpg" },
   
   
-  "_comment": "PAGE 20",
+
   { "image": "https://solomonscycles.co.za/wp-content/uploads/2025/08/Solomons-Time-To-Shift-Gear-Sale-X_Page_18-scaled.jpg" },
   
   
-  "_comment": "PAGE 21",
+
   { "image": "https://solomonscycles.co.za/wp-content/uploads/2025/08/Solomons-Time-To-Shift-Gear-Sale-X_Page_19.jpg" },
   
+
   
-  "_comment": "PAGE 22",
   { "image": "https://solomonscycles.co.za/wp-content/uploads/2025/08/Solomons-Time-To-Shift-Gear-Sale-X_Page_20.jpg" },
   
   
-  "_comment": "PAGE 23",
+
   { "image": "https://solomonscycles.co.za/wp-content/uploads/2025/08/Solomons-Time-To-Shift-Gear-Sale-X_Page_21.jpg" },
   
   
-"_comment": "PAGE 24",
+
   { "image": "https://solomonscycles.co.za/wp-content/uploads/2025/08/Solomons-Time-To-Shift-Gear-Sale-X_Page_22.jpg" },
   
   
-"_comment": "PAGE 25",
+
   { "image": "https://solomonscycles.co.za/wp-content/uploads/2025/08/Solomons-Time-To-Shift-Gear-Sale-X_Page_23.jpg" },
   
   
-"_comment": "PAGE 26",
+
   { "image": "https://solomonscycles.co.za/wp-content/uploads/2025/08/Solomons-Time-To-Shift-Gear-Sale-X_Page_24-scaled.jpg" },
   
   
-"_comment": "PAGE 27",
+
   { "image": "https://solomonscycles.co.za/wp-content/uploads/2025/08/Solomons-Time-To-Shift-Gear-Sale-X_Page_25.jpg" },
   
   
-"_comment": "PAGE 28",
+
   { "image": "https://solomonscycles.co.za/wp-content/uploads/2025/08/Solomons-Time-To-Shift-Gear-Sale-X_Page_26.jpg" },
   
   
-"_comment": "PAGE 29",
+
   { "image": "https://solomonscycles.co.za/wp-content/uploads/2025/08/Solomons-Time-To-Shift-Gear-Sale-X_Page_27.jpg" },
   
-"_comment": "PAGE 30",
+
   { "image": "https://solomonscycles.co.za/wp-content/uploads/2025/08/Solomons-Time-To-Shift-Gear-Sale-X_Page_28.jpg" },
   
   
-"_comment": "PAGE 31",
+
   { "image": "https://solomonscycles.co.za/wp-content/uploads/2025/08/Solomons-Time-To-Shift-Gear-Sale-X_Page_29-scaled.jpg" },
   
   
-"_comment": "PAGE 32",
+
   { "image": "https://solomonscycles.co.za/wp-content/uploads/2025/08/Buzzrack-Page-scaled.jpg" },
 
   
