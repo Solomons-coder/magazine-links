@@ -4,27 +4,46 @@
   { "note": "PAGE 2",
     "image": "https://solomonscycles.co.za/wp-content/uploads/2025/08/Time-To-Shift-Gear_2.webp" 
   },
+  
   {  "note": "PAGE 3",
     "image": "https://solomonscycles.co.za/wp-content/uploads/2025/08/Time-To-Shift-Gear_3.webp",
     "link": "https://solomonscycles.co.za/product-tag/magazine-1/"
-    },
+  },
+  
   { "note": "PAGE 4",
     "image": "https://solomonscycles.co.za/wp-content/uploads/2025/08/Time-To-Shift-Gear_4.webp",
     "link": "https://solomonscycles.co.za/product/patriot-frontline-29-alloy-frame-mountain-bike-2025/"
   },
+  
   { "note": "PAGE 5",
     "image": "https://solomonscycles.co.za/wp-content/uploads/2025/08/Time-To-Shift-Gear_5.webp" 
   },
+  
   { "note": "PAGE 6",
     "image": "https://solomonscycles.co.za/wp-content/uploads/2025/08/Time-To-Shift-Gear_6.webp",
     "link": "https://solomonscycles.co.za/product-tag/magazine-6/"
   },
+  
   { "note": "PAGE 7",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/08/Time-To-Shift-Gear_7.webp" },
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/08/Time-To-Shift-Gear_7.webp", 
+    "link": "https://solomonscycles.co.za/product-tag/magazine-7/"
+  },
+  
   { "note": "PAGE 8",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/08/Time-To-Shift-Gear_8.webp" },
-  { "image": "https://solomonscycles.co.za/wp-content/uploads/2025/08/Time-To-Shift-Gear_9.webp" },
-  { "image": "https://solomonscycles.co.za/wp-content/uploads/2025/08/Time-To-Shift-Gear_10.webp" },
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/08/Time-To-Shift-Gear_8.webp", 
+    "link": "https://solomonscycles.co.za/product-tag/magazine-8/"
+  },
+  
+  { "note": "PAGE 9",
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/08/Time-To-Shift-Gear_9.webp", 
+    "link": "https://solomonscycles.co.za/product-tag/magazine-9/"
+  },
+  
+  { "note": "PAGE 10",
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/08/Time-To-Shift-Gear_10.webp", 
+    "link": "https://solomonscycles.co.za/product-tag/magazine-10/"
+  },
+  
   { "image": "https://solomonscycles.co.za/wp-content/uploads/2025/08/Time-To-Shift-Gear_11.webp" },
   { "image": "https://solomonscycles.co.za/wp-content/uploads/2025/08/Time-To-Shift-Gear_12.webp" },
   { "image": "https://solomonscycles.co.za/wp-content/uploads/2025/08/Time-To-Shift-Gear_13.webp" },
