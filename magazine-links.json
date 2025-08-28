@@ -80,11 +80,30 @@
     "link": "https://solomonscycles.co.za/product-tag/magazine-17/"
   },
   
-  { "image": "https://solomonscycles.co.za/wp-content/uploads/2025/08/Time-To-Shift-Gear_18.webp" },
-  { "image": "https://solomonscycles.co.za/wp-content/uploads/2025/08/Time-To-Shift-Gear_19.webp" },
-  { "image": "https://solomonscycles.co.za/wp-content/uploads/2025/08/Time-To-Shift-Gear_20.webp" },
-  { "image": "https://solomonscycles.co.za/wp-content/uploads/2025/08/Time-To-Shift-Gear_21.webp" },
-  { "image": "https://solomonscycles.co.za/wp-content/uploads/2025/08/Time-To-Shift-Gear_22.webp" },
+  { "note": "PAGE 18",
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/08/Time-To-Shift-Gear_18.webp",
+    "link": "https://solomonscycles.co.za/product-tag/magazine-18/"
+  },
+  
+  { "note": "PAGE 19",
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/08/Time-To-Shift-Gear_19.webp" 
+  },
+  
+  { "note": "PAGE 20",
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/08/Time-To-Shift-Gear_20.webp", 
+    "link": "https://solomonscycles.co.za/product-tag/magazine-20/"
+  },
+
+  { "note": "PAGE 21",
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/08/Time-To-Shift-Gear_21.webp", 
+    "link": "https://solomonscycles.co.za/product-tag/magazine-21/"
+  },
+  
+  { "note": "PAGE 22",
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/08/Time-To-Shift-Gear_22.webp", 
+    "link": "https://solomonscycles.co.za/product-tag/magazine-22/"
+  },
+  
   { "image": "https://solomonscycles.co.za/wp-content/uploads/2025/08/Time-To-Shift-Gear_23.webp" },
   { "image": "https://solomonscycles.co.za/wp-content/uploads/2025/08/Time-To-Shift-Gear_24.webp" },
   { "image": "https://solomonscycles.co.za/wp-content/uploads/2025/08/Time-To-Shift-Gear_25.webp" },
