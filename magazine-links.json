@@ -1,5 +1,5 @@
 [
-  { "note": "PAGE 1-1",
+  { "note": "PAGE 1",
     "image": "https://solomonscycles.co.za/wp-content/uploads/2025/08/Time-To-Shift-Gear_1.webp" 
   },
   
@@ -12,7 +12,7 @@
     "link": "https://solomonscycles.co.za/product-tag/magazine-3/"
   },
   
-  { "note": "PAGE 4-4",
+  { "note": "PAGE 4",
     "image": "https://solomonscycles.co.za/wp-content/uploads/2025/08/Time-To-Shift-Gear_4.webp",
     "link": "https://solomonscycles.co.za/product/patriot-frontline-29-alloy-frame-mountain-bike-2025/"
   },
@@ -29,6 +29,11 @@
   { "note": "PAGE 7",
     "image": "https://solomonscycles.co.za/wp-content/uploads/2025/08/Time-To-Shift-Gear_7.webp", 
     "link": "https://solomonscycles.co.za/product-tag/magazine-7/"
+  },
+
+  { "note": "PAGE 7.1",
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/09/LS1-scaled.webp", 
+
   },
   
   { "note": "PAGE 8",
@@ -73,6 +78,11 @@
   {  "note": "PAGE 16",
     "image": "https://solomonscycles.co.za/wp-content/uploads/2025/08/Time-To-Shift-Gear_16.webp", 
     "link": "https://solomonscycles.co.za/product-tag/magazine-16/"
+  },
+
+  {  "note": "PAGE 16.1",
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/09/LS2-scaled.webp", 
+
   },
 
   { "note": "PAGE 17",
