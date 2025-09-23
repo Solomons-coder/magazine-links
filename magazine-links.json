@@ -34,16 +34,6 @@
     "image": "https://solomonscycles.co.za/wp-content/uploads/2025/09/Spring-Fever-Sale_6.webp", 
     "link": "https://solomonscycles.co.za/product-tag/magazine-6/"
   },
-
-  { "note": "PAGE 6.1",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/09/lifestyle-cycleimages-new_1.webp" 
-
-  },
-  
-  { "note": "PAGE 6.2",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/09/lifestyle-cycleimages-new_8.webp" 
-
-  },
   
   { "note": "PAGE 7",
     "image": "https://solomonscycles.co.za/wp-content/uploads/2025/09/Spring-Fever-Sale_7.webp", 
@@ -54,54 +44,61 @@
     "image": "https://solomonscycles.co.za/wp-content/uploads/2025/09/Spring-Fever-Sale_8.webp", 
     "link": "https://solomonscycles.co.za/product-tag/magazine-8/"
   },
+
+  { "note": "PAGE 9-",
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/09/LS-N_3.webp" 
+  },
   
   { "note": "PAGE 9",
     "image": "https://solomonscycles.co.za/wp-content/uploads/2025/09/Spring-Fever-Sale_9.webp", 
     "link": "https://solomonscycles.co.za/product-tag/magazine-9/"
   },
-
-  { "note": "PAGE 9.1",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/09/lifestyle-cycleimages-new_4.webp" 
-
-  },
   
   { "note": "PAGE 10",
     "image": "https://solomonscycles.co.za/wp-content/uploads/2025/09/Spring-Fever-Sale_10.webp", 
-    "link": "https://solomonscycles.co.za/product-tag/magazine-11/"
+    "link": "https://solomonscycles.co.za/product-tag/magazine-10/"
+  },
+
+  { "note": "PAGE 11-",
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/09/LS-N_4.webp" 
   },
   
   { "note": "PAGE 11",
     "image": "https://solomonscycles.co.za/wp-content/uploads/2025/09/Spring-Fever-Sale_11.webp", 
-    "link": "https://solomonscycles.co.za/product-tag/magazine-12/"
-  },
-  
-  { "note": "PAGE 11.1",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/08/Time-To-Shift-Gear_13.webp" 
+    "link": "https://solomonscycles.co.za/product-tag/magazine-11/"
   },
   
   { "note": "PAGE 12",
     "image": "https://solomonscycles.co.za/wp-content/uploads/2025/09/Spring-Fever-Sale_12.webp", 
-    "link": "https://solomonscycles.co.za/product-tag/magazine-14/"
+    "link": "https://solomonscycles.co.za/product-tag/magazine-12/"
+  },
+
+  { "note": "PAGE 13-",
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/09/LS-N_5.webp" 
   },
 
   { "note": "PAGE 13",
     "image": "https://solomonscycles.co.za/wp-content/uploads/2025/09/Spring-Fever-Sale_13.webp", 
-    "link": "https://solomonscycles.co.za/product-tag/magazine-15/"
+    "link": "https://solomonscycles.co.za/product-tag/magazine-13/"
+  },
+
+    { "note": "PAGE 14-",
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/09/LS-N_6.webp" 
   },
   
   {  "note": "PAGE 14",
     "image": "https://solomonscycles.co.za/wp-content/uploads/2025/09/Spring-Fever-Sale_14.webp", 
-    "link": "https://solomonscycles.co.za/product-tag/magazine-16/"
+    "link": "https://solomonscycles.co.za/product-tag/magazine-14/"
   },
 
-  {  "note": "PAGE 14.1",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/09/lifestyle-cycleimages-new_2.webp" 
+  {  "note": "PAGE 15-",
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/09/LS-N_7.webp" 
 
   },
 
   { "note": "PAGE 15",
     "image": "https://solomonscycles.co.za/wp-content/uploads/2025/09/Spring-Fever-Sale_15.webp", 
-    "link": "https://solomonscycles.co.za/product-tag/magazine-17/"
+    "link": "https://solomonscycles.co.za/product-tag/magazine-15/"
   },
   
   { "note": "PAGE 16",
