@@ -47,9 +47,7 @@
     "link": "https://solomonscycles.co.za/product-tag/magazine-8/"
   },
 
-{ "note": "PAGE Kids-",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/CS25_3-scaled.webp"
-  },
+
   { "note": "PAGE 9",
     "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/Solomons-Cycles-Feastive-Sale-2025_9.webp",
     "link": "https://solomonscycles.co.za/product-tag/magazine-9/"
@@ -67,6 +65,9 @@
     "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/Solomons-Cycles-Feastive-Sale-2025_11.webp",
     "link": "https://solomonscycles.co.za/product-tag/magazine-11/"
   },
+{ "note": "PAGE Kids-",
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/CS25_3-scaled.webp"
+  },
   { "note": "PAGE 12",
     "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/Solomons-Cycles-Feastive-Sale-2025_12.webp",
     "link": "https://solomonscycles.co.za/product-tag/magazine-12/"
@@ -76,9 +77,7 @@
     "link": "https://solomonscycles.co.za/product-tag/magazine-13/"
   },
 
-{ "note": "PAGE Store-",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/CS25_5-scaled.webp"
-  },
+
 
   { "note": "PAGE 14",
     "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/Solomons-Cycles-Feastive-Sale-2025_14.webp",
@@ -141,6 +140,9 @@
   { "note": "PAGE 26",
     "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/Solomons-Cycles-Feastive-Sale-2025_26.webp",
     "link": "https://solomonscycles.co.za/product-tag/magazine-26/"
+  },
+{ "note": "PAGE Store-",
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/CS25_5-scaled.webp"
   },
   { "note": "PAGE 27",
     "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/Solomons-Cycles-Feastive-Sale-2025_27.webp",
