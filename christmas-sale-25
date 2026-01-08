@@ -1,161 +1,146 @@
 [
-  { "note": "CONTENT 1-",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/Solomons-Cycles-Feastive-Sale-2025_1.webp" 
+  {
+    "note": "CONTENT 1-",
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/Solomons-Cycles-Feastive-Sale-2025_1.webp"
   },
-  
-  { "note": "CONTENT 2-",
+  {
+    "note": "CONTENT 2-",
     "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/Solomons-Cycles-Feastive-Sale-2025_2.webp"
   },
-
-  { "note": "CONTENT 3",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/Solomons-Cycles-Feastive-Sale-2025_3.webp", 
-    "link": "https://solomonscycles.co.za/product-tag/magazine-1/"
+  {
+    "note": "CONTENT 3",
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/Solomons-Cycles-Feastive-Sale-2025_3.webp"
   },
-  
-
-  { "note": "LIFESTYLE 1-",
+  {
+    "note": "LIFESTYLE 1-",
     "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/CS25_2-scaled.webp"
   },
-
-
-  { "note": "CONTENT 4",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/Solomons-Cycles-Feastive-Sale-2025_4.webp",
-    "link": "https://solomonscycles.co.za/product-tag/magazine-2/"
+  {
+    "note": "CONTENT 4",
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/Solomons-Cycles-Feastive-Sale-2025_4.webp"
   },
-
-  { "note": "CONTENT 5",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/Solomons-Cycles-Feastive-Sale-2025_5.webp",
-    "link": "https://solomonscycles.co.za/product-tag/magazine-3/"
+  {
+    "note": "CONTENT 5",
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/Solomons-Cycles-Feastive-Sale-2025_5.webp"
   },
-  { "note": "CONTENT 6",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/Solomons-Cycles-Feastive-Sale-2025_6.webp",
-    "link": "https://solomonscycles.co.za/product-tag/magazine-4/"
+  {
+    "note": "CONTENT 6",
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/Solomons-Cycles-Feastive-Sale-2025_6.webp"
   },
-
-
-  { "note": "CONTENT 7",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/Solomons-Cycles-Feastive-Sale-2025_7.webp",
-    "link": "https://solomonscycles.co.za/product-tag/magazine-5/"
+  {
+    "note": "CONTENT 7",
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/Solomons-Cycles-Feastive-Sale-2025_7.webp"
   },
-
-  { "note": "LIFESTYLE 2-",
+  {
+    "note": "LIFESTYLE 2-",
     "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/CS25_4-scaled.webp"
   },
-
-  { "note": "CONTENT 8",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/Solomons-Cycles-Feastive-Sale-2025_8.webp",
-    "link": "https://solomonscycles.co.za/product-tag/magazine-6/"
+  {
+    "note": "CONTENT 8",
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/Solomons-Cycles-Feastive-Sale-2025_8.webp"
   },
-
-
-  { "note": "CONTENT 9",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/Solomons-Cycles-Feastive-Sale-2025_9.webp",
-    "link": "https://solomonscycles.co.za/product-tag/magazine-7/"
+  {
+    "note": "CONTENT 9",
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/Solomons-Cycles-Feastive-Sale-2025_9.webp"
   },
-  { "note": "CONTENT 10",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/Solomons-Cycles-Feastive-Sale-2025_10.webp",
-    "link": "https://solomonscycles.co.za/product-tag/magazine-8/"
+  {
+    "note": "CONTENT 10",
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/Solomons-Cycles-Feastive-Sale-2025_10.webp"
   },
-
-
-
-  { "note": "CONTENT 11",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/Solomons-Cycles-Feastive-Sale-2025_11.webp",
-    "link": "https://solomonscycles.co.za/product-tag/magazine-9/"
+  {
+    "note": "CONTENT 11",
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/Solomons-Cycles-Feastive-Sale-2025_11.webp"
   },
-  { "note": "LIFESTYLE 3-",
+  {
+    "note": "LIFESTYLE 3-",
     "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/CS25_3-scaled.webp"
   },
-  { "note": "CONTENT 12",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/Solomons-Cycles-Feastive-Sale-2025_12.webp",
-    "link": "https://solomonscycles.co.za/product-tag/magazine-10/"
+  {
+    "note": "CONTENT 12",
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/Solomons-Cycles-Feastive-Sale-2025_12.webp"
   },
-  { "note": "CONTENT 13",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/Solomons-Cycles-Feastive-Sale-2025_13.webp",
-    "link": "https://solomonscycles.co.za/product-tag/magazine-11/"
+  {
+    "note": "CONTENT 13",
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/Solomons-Cycles-Feastive-Sale-2025_13.webp"
   },
-
-
-
-  { "note": "CONTENT 14",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/Solomons-Cycles-Feastive-Sale-2025_14.webp",
-    "link": "https://solomonscycles.co.za/product-tag/magazine-12/"
+  {
+    "note": "CONTENT 14",
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/Solomons-Cycles-Feastive-Sale-2025_14.webp"
   },
-
-  { "note": "LIFESTYLE 4-",
+  {
+    "note": "LIFESTYLE 4-",
     "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/CS25_6-scaled.webp"
   },
-  { "note": "CONTENT 15",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/Solomons-Cycles-Feastive-Sale-2025_15.webp",
-    "link": "https://solomonscycles.co.za/product-tag/magazine-13/"
+  {
+    "note": "CONTENT 15",
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/Solomons-Cycles-Feastive-Sale-2025_15.webp"
   },
-  { "note": "CONTENT 16",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/Solomons-Cycles-Feastive-Sale-2025_16.webp",
-    "link": "https://solomonscycles.co.za/product-tag/magazine-14/"
+  {
+    "note": "CONTENT 16",
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/Solomons-Cycles-Feastive-Sale-2025_16.webp"
   },
-  { "note": "CONTENT 17",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/Solomons-Cycles-Feastive-Sale-2025_17.webp",
-    "link": "https://solomonscycles.co.za/product-tag/magazine-15/"
+  {
+    "note": "CONTENT 17",
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/Solomons-Cycles-Feastive-Sale-2025_17.webp"
   },
-
-  { "note": "LIFESTYLE 5-",
+  {
+    "note": "LIFESTYLE 5-",
     "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/CS25_1-scaled.webp"
   },
-
-  { "note": "CONTENT 18",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/Solomons-Cycles-Feastive-Sale-2025_18.webp",
-    "link": "https://solomonscycles.co.za/product-tag/magazine-16/"
+  {
+    "note": "CONTENT 18",
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/Solomons-Cycles-Feastive-Sale-2025_18.webp"
   },
-  { "note": "CONTENT 19",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/Solomons-Cycles-Feastive-Sale-2025_19.webp",
-    "link": "https://solomonscycles.co.za/product-tag/magazine-17/"
+  {
+    "note": "CONTENT 19",
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/Solomons-Cycles-Feastive-Sale-2025_19.webp"
   },
-  { "note": "CONTENT 20",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/Solomons-Cycles-Feastive-Sale-2025_20.webp",
-    "link": "https://solomonscycles.co.za/product-tag/magazine-18/"
+  {
+    "note": "CONTENT 20",
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/Solomons-Cycles-Feastive-Sale-2025_20.webp"
   },
-  { "note": "CONTENT 21",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/Solomons-Cycles-Feastive-Sale-2025_21.webp",
-    "link": "https://solomonscycles.co.za/product-tag/magazine-19/"
+  {
+    "note": "CONTENT 21",
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/Solomons-Cycles-Feastive-Sale-2025_21.webp"
   },
-  { "note": "CONTENT 22",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/Solomons-Cycles-Feastive-Sale-2025_22.webp",
-    "link": "https://solomonscycles.co.za/product-tag/magazine-20/"
+  {
+    "note": "CONTENT 22",
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/Solomons-Cycles-Feastive-Sale-2025_22.webp"
   },
-
-  { "note": "LIFESTYLE 6-",
+  {
+    "note": "LIFESTYLE 6-",
     "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/CS25_7-scaled.webp"
   },
-
-  { "note": "CONTENT 23",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/Solomons-Cycles-Feastive-Sale-2025_23.webp",
-    "link": "https://solomonscycles.co.za/product-tag/magazine-21/"
+  {
+    "note": "CONTENT 23",
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/Solomons-Cycles-Feastive-Sale-2025_23.webp"
   },
-  { "note": "CONTENT 24",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/Solomons-Cycles-Feastive-Sale-2025_24.webp",
-    "link": "https://solomonscycles.co.za/product-tag/magazine-22/"
+  {
+    "note": "CONTENT 24",
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/Solomons-Cycles-Feastive-Sale-2025_24.webp"
   },
-  { "note": "CONTENT 25",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/Solomons-Cycles-Feastive-Sale-2025_25.webp",
-    "link": "https://solomonscycles.co.za/product-tag/magazine-23/"
+  {
+    "note": "CONTENT 25",
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/Solomons-Cycles-Feastive-Sale-2025_25.webp"
   },
-  { "note": "CONTENT 26",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/Solomons-Cycles-Feastive-Sale-2025_26.webp",
-    "link": "https://solomonscycles.co.za/product-tag/magazine-24/"
+  {
+    "note": "CONTENT 26",
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/Solomons-Cycles-Feastive-Sale-2025_26.webp"
   },
-  { "note": "LIFESTYLE 7-",
+  {
+    "note": "LIFESTYLE 7-",
     "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/CS25_5-scaled.webp"
   },
-  { "note": "CONTENT 27",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/Solomons-Cycles-Feastive-Sale-2025_27.webp",
-    "link": "https://solomonscycles.co.za/product-tag/magazine-25/"
+  {
+    "note": "CONTENT 27",
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/Solomons-Cycles-Feastive-Sale-2025_27.webp"
   },
-  { "note": "CONTENT 28",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/Solomons-Cycles-Feastive-Sale-2025_28.webp",
-    "link": "https://solomonscycles.co.za/product-tag/magazine-26/"
+  {
+    "note": "CONTENT 28",
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/Solomons-Cycles-Feastive-Sale-2025_28.webp"
   },
-  { "note": "CONTENT 29",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/Solomons-Cycles-Feastive-Sale-2025_29.webp",
-    "link": "https://solomonscycles.co.za/product-tag/magazine-27/"
+  {
+    "note": "CONTENT 29",
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2025/12/Solomons-Cycles-Feastive-Sale-2025_29.webp"
   }
 ]
