@@ -6,9 +6,7 @@
   { "note": "INDEX 2-",
     "image": "https://solomonscycles.co.za/wp-content/uploads/2026/01/AD-2026-Jan-2-LS.webp"
   },
-  { "note": "RACE CALENDAR 3-",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/01/Solomons-Cycles-Race-Calendar.webp"
-  },
+
 
   { "note": "CONTENT 1",
     "image": "https://solomonscycles.co.za/wp-content/uploads/2026/01/Ad-26-jan-1.webp", 
@@ -18,10 +16,10 @@
   { "note": "LIFESTYLE IMAGE 1-",
     "image": "https://solomonscycles.co.za/wp-content/uploads/2026/01/ls26-1-scaled.webp"
   },
-
-  { "note": "Video Roll 1-",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/01/Jan26-vid.gif" 
+  { "note": "RACE CALENDAR 3-",
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/01/Solomons-Cycles-Race-Calendar.webp"
   },
+
   { "note": "CONTENT 2",
     "image": "https://solomonscycles.co.za/wp-content/uploads/2026/01/Ad-26-jan-2.webp",
     "link": "https://solomonscycles.co.za/product-tag/magazine-2/"
@@ -99,6 +97,9 @@
   },
   { "note": "LIFESTYLE IMAGE 5-",
     "image": "https://solomonscycles.co.za/wp-content/uploads/2026/01/ls26-5-scaled.webp"
+  },
+  { "note": "Video Roll 1-",
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/01/Jan26-vid.gif" 
   },
   { "note": "CONTENT 14",
     "image": "https://solomonscycles.co.za/wp-content/uploads/2026/01/Ad-26-jan-14.webp",
