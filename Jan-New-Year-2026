@@ -98,8 +98,10 @@
   { "note": "LIFESTYLE IMAGE 5-",
     "image": "https://solomonscycles.co.za/wp-content/uploads/2026/01/ls26-5-scaled.webp"
   },
-  { "note": "Video Roll 1-",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/01/Jan26-vid-2.gif" 
+  { 
+    "note": "Video Roll 1-", 
+    "type": "video", 
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/01/Beach-Bike.mp4" 
   },
   { "note": "CONTENT 14",
     "image": "https://solomonscycles.co.za/wp-content/uploads/2026/01/Ad-26-jan-14.webp",
