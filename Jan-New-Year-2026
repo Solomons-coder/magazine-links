@@ -25,6 +25,11 @@
     "link": "https://solomonscycles.co.za/product-tag/magazine-2/"
   },
 
+ { 
+    "note": "Video Roll 1-", 
+    "type": "video", 
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/01/MTB-1.mp4" 
+  },
   { "note": "CONTENT 3",
     "image": "https://solomonscycles.co.za/wp-content/uploads/2026/01/Ad-26-jan-3.webp",
     "link": "https://solomonscycles.co.za/product-tag/magazine-3/"
@@ -172,7 +177,7 @@
     "link": "https://solomonscycles.co.za/product-tag/magazine-27/"
   },
  { 
-    "note": "Video Roll 1-", 
+    "note": "Video Roll 2-", 
     "type": "video", 
     "image": "https://solomonscycles.co.za/wp-content/uploads/2026/01/Beach-Bike.mp4" 
   },
