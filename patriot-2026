@@ -1,39 +1,40 @@
 [
   { "note": "FRONT PAGE COVER 1-",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/02/Solomons-Cycles-Patriot-Sale-2026-New-Header_1.webp" 
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/02/PAT-CAT-0.webp" 
   },
-  
-
   { "note": "CONTENT 1",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/02/pat-1.webp", 
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/02/PAT-CAT-1.webp", 
     "link": "https://solomonscycles.co.za/product-tag/patriot-1/"
   },
-  
+  { "note": "CONTENT 2",
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/02/PAT-CAT-2.webp", 
+    "link": "https://solomonscycles.co.za/product-tag/patriot-2/"
+  },
   { "note": "LIFESTYLE IMAGE 1-",
     "image": "https://solomonscycles.co.za/wp-content/uploads/2026/02/patriot-ls_1.webp"
   },
-
-  { "note": "CONTENT 2",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/02/pat-2.webp", 
-    "link": "https://solomonscycles.co.za/product-tag/patriot-2/"
-  },
-
   { "note": "CONTENT 3",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/02/pat-3.webp", 
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/02/PAT-CAT-3.webp", 
     "link": "https://solomonscycles.co.za/product-tag/patriot-3/"
+  },
+  { "note": "CONTENT 4",
+    "image": "hhttps://solomonscycles.co.za/wp-content/uploads/2026/02/PAT-CAT-4.webp", 
+    "link": "https://solomonscycles.co.za/product-tag/patriot-4/"
+  },
+  { "note": "CONTENT 5",
+    "image": "hhttps://solomonscycles.co.za/wp-content/uploads/2026/02/PAT-CAT-5.webp", 
+    "link": "https://solomonscycles.co.za/product-tag/patriot-5/"
   },
   { "note": "LIFESTYLE IMAGE 2-",
     "image": "https://solomonscycles.co.za/wp-content/uploads/2026/02/patriot-ls_2.webp"
   },
-
-  { "note": "CONTENT 4",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/02/pat-4.webp", 
-    "link": "https://solomonscycles.co.za/product-tag/patriot-4/"
+  { "note": "CONTENT 6",
+    "image": "hhttps://solomonscycles.co.za/wp-content/uploads/2026/02/PAT-CAT-6.webp", 
+    "link": "https://solomonscycles.co.za/product-tag/patriot-6/"
   },
-
-  { "note": "CONTENT 5",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/02/pat-5.webp", 
-    "link": "https://solomonscycles.co.za/product-tag/patriot-5/"
+  { "note": "CONTENT 7",
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/02/pat-7.webp", 
+    "link": "https://solomonscycles.co.za/product-tag/patriot-7/"
   }
   
 ]
