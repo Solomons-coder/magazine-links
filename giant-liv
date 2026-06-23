@@ -1,1 +1,22 @@
-
+[
+  {
+    "note": "CONTENT 1",
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/06/Giant-1.webp",
+    "link": "https://solomonscycles.co.za/product-tag/Giant26-1/"
+  },
+  {
+    "note": "CONTENT 2",
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/06/Giant-2.webp",
+    "link": "https://solomonscycles.co.za/product-tag/Giant26-2/"
+  },
+  {
+    "note": "CONTENT 3",
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/06/Giant-3.webp",
+    "link": "https://solomonscycles.co.za/product-tag/Giant26-3/"
+  },
+  {
+    "note": "CONTENT 4",
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/06/Giant-4.webp",
+    "link": "https://solomonscycles.co.za/product-tag/Giant26-4/"
+  }
+]
