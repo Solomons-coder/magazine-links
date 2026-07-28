@@ -1,3 +1,4 @@
+```json
 [
   { 
     "note": "CONTENT 1-",
@@ -9,147 +10,119 @@
   },
   { 
     "note": "CONTENT 3-",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/06/arch-3June26-3.webp", 
-    "link": "https://solomonscycles.co.za/product-tag/magazine-3/"
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/06/arch-3June26-3.webp"
   },
   { 
     "note": "CONTENT 4-",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/06/arch-3June26-4.webp", 
-    "link": "https://solomonscycles.co.za/product-tag/magazine-4/"
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/06/arch-3June26-4.webp"
   },
   { 
     "note": "CONTENT 5-",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/06/arch-3June26-5.webp", 
-    "link": "https://solomonscycles.co.za/product-tag/magazine-5/"
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/06/arch-3June26-5.webp"
   },
   { 
     "note": "CONTENT 6-",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/06/arch-3June26-6.webp", 
-    "link": "https://solomonscycles.co.za/product-tag/magazine-6/"
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/06/arch-3June26-6.webp"
   },
   { 
     "note": "CONTENT 7-",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/06/arch-3June26-7.webp", 
-    "link": "https://solomonscycles.co.za/product-tag/magazine-7/"
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/06/arch-3June26-7.webp"
   },
   { 
     "note": "CONTENT 8-",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/06/arch-3June26-8.webp", 
-    "link": "https://solomonscycles.co.za/product-tag/magazine-8/"
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/06/arch-3June26-8.webp"
   },
   { 
     "note": "CONTENT 9-",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/06/arch-3June26-9.webp", 
-    "link": "https://solomonscycles.co.za/product-tag/magazine-9/"
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/06/arch-3June26-9.webp"
   },
   { 
     "note": "CONTENT 10-",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/06/arch-3June26-10.webp", 
-    "link": "https://solomonscycles.co.za/product-tag/magazine-10/"
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/06/arch-3June26-10.webp"
   },
   { 
     "note": "CONTENT 11-",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/06/arch-3June26-11.webp", 
-    "link": "https://solomonscycles.co.za/product-tag/magazine-11/"
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/06/arch-3June26-11.webp"
   },
   { 
     "note": "CONTENT 12-",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/06/arch-3June26-12.webp", 
-    "link": "https://solomonscycles.co.za/product-tag/magazine-12/"
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/06/arch-3June26-12.webp"
   },
   { 
     "note": "CONTENT 13-",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/06/arch-3June26-13.webp", 
-    "link": "https://solomonscycles.co.za/product-tag/magazine-13/"
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/06/arch-3June26-13.webp"
   },
   { 
     "note": "CONTENT 14-",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/06/arch-3June26-14.webp", 
-    "link": "https://solomonscycles.co.za/product-tag/magazine-14/"
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/06/arch-3June26-14.webp"
   },
   { 
     "note": "CONTENT 15-",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/06/arch-3June26-15.webp", 
-    "link": "https://solomonscycles.co.za/product-tag/magazine-15/"
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/06/arch-3June26-15.webp"
   },
   { 
     "note": "CONTENT 16-",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/06/arch-3June26-16.webp", 
-    "link": "https://solomonscycles.co.za/product-tag/magazine-16/"
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/06/arch-3June26-16.webp"
   },
   { 
     "note": "CONTENT 17-",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/06/arch-3June26-17.webp", 
-    "link": "https://solomonscycles.co.za/product-tag/magazine-17/"
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/06/arch-3June26-17.webp"
   },
   { 
     "note": "CONTENT 18-",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/06/arch-3June26-18.webp", 
-    "link": "https://solomonscycles.co.za/product-tag/magazine-18/"
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/06/arch-3June26-18.webp"
   },
   { 
     "note": "CONTENT 19-",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/06/arch-3June26-19.webp", 
-    "link": "https://solomonscycles.co.za/product-tag/magazine-19/"
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/06/arch-3June26-19.webp"
   },
   { 
     "note": "CONTENT 20-",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/06/arch-3June26-20.webp", 
-    "link": "https://solomonscycles.co.za/product-tag/magazine-20/"
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/06/arch-3June26-20.webp"
   },
   { 
     "note": "CONTENT 21-",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/06/arch-3June26-21.webp", 
-    "link": "https://solomonscycles.co.za/product-tag/magazine-21/"
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/06/arch-3June26-21.webp"
   },
   { 
     "note": "CONTENT 22-",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/06/arch-3June26-22.webp", 
-    "link": "https://solomonscycles.co.za/product-tag/magazine-22/"
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/06/arch-3June26-22.webp"
   },
   { 
     "note": "CONTENT 23-",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/06/arch-3June26-23.webp", 
-    "link": "https://solomonscycles.co.za/product-tag/magazine-23/"
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/06/arch-3June26-23.webp"
   },
   { 
     "note": "CONTENT 24-",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/06/arch-3June26-24.webp", 
-    "link": "https://solomonscycles.co.za/product-tag/magazine-24/"
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/06/arch-3June26-24.webp"
   },
   { 
     "note": "CONTENT 25-",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/06/arch-3June26-25.webp", 
-    "link": "https://solomonscycles.co.za/product-tag/magazine-25/"
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/06/arch-3June26-25.webp"
   },
   { 
     "note": "CONTENT 26-",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/06/arch-3June26-26.webp", 
-    "link": "https://solomonscycles.co.za/product-tag/magazine-26/"
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/06/arch-3June26-26.webp"
   },
   { 
     "note": "CONTENT 27-",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/06/arch-3June26-27.webp", 
-    "link": "https://solomonscycles.co.za/product-tag/magazine-27/"
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/06/arch-3June26-27.webp"
   },
   { 
     "note": "CONTENT 28-",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/06/arch-3June26-28.webp", 
-    "link": "https://solomonscycles.co.za/product-tag/magazine-28/"
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/06/arch-3June26-28.webp"
   },
   { 
     "note": "CONTENT 29-",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/06/arch-3June26-29.webp", 
-    "link": "https://solomonscycles.co.za/product-tag/magazine-29/"
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/06/arch-3June26-29.webp"
   },
   { 
     "note": "CONTENT 30-",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/06/arch-3June26-30.webp", 
-    "link": "https://solomonscycles.co.za/product-tag/magazine-30/"
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/06/arch-3June26-30.webp"
   },
   { 
     "note": "CONTENT 31-",
-    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/06/arch-3June26-31.webp", 
-    "link": "https://solomonscycles.co.za/product-tag/magazine-31/"
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/06/arch-3June26-31.webp"
   }
 ]
+```
