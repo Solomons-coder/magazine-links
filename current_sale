@@ -12,17 +12,15 @@
     "image": "https://solomonscycles.co.za/current_sale_3/", 
     "link": "https://solomonscycles.co.za/product-tag/magazine-3/"
   },
+  {
+    "note": "LIFESTYLE IMAGE 1-",
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/10/wLS-1.webp"
+  },
   { 
     "note": "CONTENT 4",
     "image": "https://solomonscycles.co.za/current_sale_4/", 
     "link": "https://solomonscycles.co.za/product-tag/magazine-4/"
   },
-
-{
-  "note": "LIFESTYLE IMAGE 1-",
-  "image": "https://solomonscycles.co.za/wp-content/uploads/2026/06/CLS-1.webp"
-},
-
   { 
     "note": "CONTENT 5",
     "image": "https://solomonscycles.co.za/current_sale_5/", 
@@ -32,6 +30,10 @@
     "note": "CONTENT 6",
     "image": "https://solomonscycles.co.za/current_sale_6/", 
     "link": "https://solomonscycles.co.za/product-tag/magazine-6/"
+  },
+  {
+    "note": "LIFESTYLE IMAGE 2-",
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/10/wLS-2.webp"
   },
   { 
     "note": "CONTENT 7",
@@ -43,16 +45,14 @@
     "image": "https://solomonscycles.co.za/current_sale_8/", 
     "link": "https://solomonscycles.co.za/product-tag/magazine-8/"
   },
-
-{
-  "note": "LIFESTYLE IMAGE 2-",
-  "image": "https://solomonscycles.co.za/wp-content/uploads/2026/06/CLS-2.webp"
-},
-
   { 
     "note": "CONTENT 9",
     "image": "https://solomonscycles.co.za/current_sale_9/", 
     "link": "https://solomonscycles.co.za/product-tag/magazine-9/"
+  },
+  {
+    "note": "LIFESTYLE IMAGE 3-",
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/10/wLS-3.webp"
   },
   { 
     "note": "CONTENT 10",
@@ -69,12 +69,10 @@
     "image": "https://solomonscycles.co.za/current_sale_12/", 
     "link": "https://solomonscycles.co.za/product-tag/magazine-12/"
   },
-
-{
-  "note": "LIFESTYLE IMAGE 3-",
-  "image": "https://solomonscycles.co.za/wp-content/uploads/2026/06/CLS-3.webp"
-},
-
+  {
+    "note": "LIFESTYLE IMAGE 4-",
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/10/wLS-4.webp"
+  },
   { 
     "note": "CONTENT 13",
     "image": "https://solomonscycles.co.za/current_sale_13/", 
@@ -90,17 +88,15 @@
     "image": "https://solomonscycles.co.za/current_sale_15/", 
     "link": "https://solomonscycles.co.za/product-tag/magazine-15/"
   },
+  {
+    "note": "LIFESTYLE IMAGE 5-",
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/10/wLS-5.webp"
+  },
   { 
     "note": "CONTENT 16",
     "image": "https://solomonscycles.co.za/current_sale_16/", 
     "link": "https://solomonscycles.co.za/product-tag/magazine-16/"
   },
-
-{
-  "note": "LIFESTYLE IMAGE 4-",
-  "image": "https://solomonscycles.co.za/wp-content/uploads/2026/06/CLS-4.webp"
-},
-
   { 
     "note": "CONTENT 17",
     "image": "https://solomonscycles.co.za/current_sale_17/", 
@@ -110,6 +106,10 @@
     "note": "CONTENT 18",
     "image": "https://solomonscycles.co.za/current_sale_18/", 
     "link": "https://solomonscycles.co.za/product-tag/magazine-18/"
+  },
+  {
+    "note": "LIFESTYLE IMAGE 6-",
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/10/wLS-6.webp"
   },
   { 
     "note": "CONTENT 19",
@@ -121,16 +121,14 @@
     "image": "https://solomonscycles.co.za/current_sale_20/", 
     "link": "https://solomonscycles.co.za/product-tag/magazine-20/"
   },
-
-{
-  "note": "LIFESTYLE IMAGE 5-",
-  "image": "https://solomonscycles.co.za/wp-content/uploads/2026/06/CLS-5.webp"
-},
-
   { 
     "note": "CONTENT 21",
     "image": "https://solomonscycles.co.za/current_sale_21/", 
     "link": "https://solomonscycles.co.za/product-tag/magazine-21/"
+  },
+  {
+    "note": "LIFESTYLE IMAGE 7-",
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/10/wLS-7.webp"
   },
   { 
     "note": "CONTENT 22",
@@ -147,12 +145,10 @@
     "image": "https://solomonscycles.co.za/current_sale_24/", 
     "link": "https://solomonscycles.co.za/product-tag/magazine-24/"
   },
-
-{
-  "note": "LIFESTYLE IMAGE 6-",
-  "image": "https://solomonscycles.co.za/wp-content/uploads/2026/06/CLS-6.webp"
-},
-
+  {
+    "note": "LIFESTYLE IMAGE 8-",
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/10/wLS-8.webp"
+  },
   { 
     "note": "CONTENT 25",
     "image": "https://solomonscycles.co.za/current_sale_25/", 
@@ -167,6 +163,10 @@
     "note": "CONTENT 27",
     "image": "https://solomonscycles.co.za/current_sale_27/", 
     "link": "https://solomonscycles.co.za/product-tag/magazine-27/"
+  },
+  {
+    "note": "LIFESTYLE IMAGE 9-",
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/10/wLS-9.webp"
   },
   { 
     "note": "CONTENT 28",
@@ -183,10 +183,13 @@
     "image": "https://solomonscycles.co.za/current_sale_30/", 
     "link": "https://solomonscycles.co.za/product-tag/magazine-30"
   },
+  {
+    "note": "LIFESTYLE IMAGE 10-",
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/10/wLS-10.webp"
+  },
   { 
     "note": "CONTENT 31",
     "image": "https://solomonscycles.co.za/current_sale_31/", 
     "link": "https://solomonscycles.co.za/product-tag/magazine-31/"
   }
-
 ]
