@@ -1,0 +1,40 @@
+[
+  { 
+    "note": "CONTENT 1",
+    "image": "https://solomonscycles.co.za/current_sale_1/"
+  },
+
+  { 
+    "note": "CONTENT 2",
+    "image": "https://solomonscycles.co.za/current_sale_2/", 
+    "link": "https://solomonscycles.co.za/product-tag/bf26-1/"
+  },
+  {
+    "note": "LIFESTYLE IMAGE 1-",
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/10/wLS-1.webp"
+  },
+  { 
+    "note": "CONTENT 3",
+    "image": "https://solomonscycles.co.za/current_sale_4/", 
+    "link": "https://solomonscycles.co.za/product-tag/bf26-1/"
+  },
+  { 
+    "note": "CONTENT 4",
+    "image": "https://solomonscycles.co.za/current_sale_5/", 
+    "link": "https://solomonscycles.co.za/product-tag/bf26-1/"
+  },
+  { 
+    "note": "CONTENT 5",
+    "image": "https://solomonscycles.co.za/current_sale_6/", 
+    "link": "https://solomonscycles.co.za/product-tag/bf26-1/"
+  },
+  { 
+    "note": "CONTENT 6",
+    "image": "https://solomonscycles.co.za/current_sale_6/", 
+    "link": "https://solomonscycles.co.za/product-tag/bf26-1/"
+  },
+  {
+    "note": "LIFESTYLE IMAGE 2-",
+    "image": "https://solomonscycles.co.za/wp-content/uploads/2026/10/wLS-2.webp"
+  }
+]
